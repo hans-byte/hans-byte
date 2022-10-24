@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Hans Lambrecht
 - 👀 I’m interested in Analytics and trying to make business growth with informed decisitions
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Kaggle´s community
+- 🌱 I’m currently learning to become a Backend programmer
 - 📫 You can reach me on Linkedin: https://www.linkedin.com/in/hans-lambrecht-41399986/
 
 <!---
